@@ -1,0 +1,33 @@
+@import "_bootstrap/bootstrap.scss";
+
+
+h1 {
+    font-size: 1.3rem;
+}
+
+h2 {
+    font-size: 1.1rem;
+}
+
+.top {
+    //background: url("../images/3D/composition.jpg") fixed;
+    //background-size: cover;
+    background-color: #fffade;
+}
+
+.contact {
+    width: 150px;
+    height: 100px;
+}
+
+/*main {
+    background: linear-gradient(0deg, #6b6b6b, transparent);
+}*/
+
+footer {
+    background-color: #fffade;
+}
+
+.modal-content {
+    box-shadow: 1px 1px 20px 0px;
+}

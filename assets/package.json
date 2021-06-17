@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "*",
+    "node-normalize-scss": "^8.1.2"
+  }
+}
